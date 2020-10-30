@@ -1,7 +1,7 @@
 # System Software Programming
 > <i> 이론 중간 과제 </i>
 ***
-### 컴파일 방법
+### 컴파일 방법👩‍💻
 1. shell에 gcc -o sicxe_assembler sicxe_assembler.c 입력
 2. shell에 ./sicxe_assembler source1.asm object1.obj 입력
 - source1.asm은 내가 주는 input file로, 주어진 inputfile의 이름에 따라
